@@ -1,26 +1,51 @@
-# Hi 👋, I'm Gourav Lande
+# Hi, I'm Gourav Lande
 
-🎓 M.Tech Student  
-💻 Aspiring Data Scientist & DevOps Engineer  
-🚀 Passionate about AI, Cloud & Automation  
+I am an M.Tech student with a strong interest in Artificial Intelligence, Cloud Computing, and DevOps. I focus on building practical systems that combine machine learning with real-world deployment.
 
-## 🔧 Skills
-- Python, C++
-- Machine Learning & AI
-- DevOps: Docker, CI/CD, GitHub Actions
-- Cloud: AWS 
-- Tools: OpenCV, Git, Linux
+## Current Focus
 
-## 📌 Projects
-- Hand Sign Recognition System
-- Driver Drowsiness Detection
-- EV Anti-Sleep Mechanism
-- AI Chatbot (AWS + Hugging Face)
+* Learning and applying AI Engineering concepts (LLMs, RAG, system integration)
+* Strengthening my understanding of cloud-based architectures using AWS
+* Improving DevOps practices for scalable and reliable deployments
 
-## ⚙️ DevOps Work
-- Dockerized applications
-- CI/CD pipelines
-- Cloud deployment on AWS
+## Technical Skills
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/gourav-lande/
+**Programming Languages**
+Python, C++
+
+**Artificial Intelligence & Machine Learning**
+Machine Learning, Computer Vision (OpenCV), basic deep learning
+
+**DevOps & Tools**
+Docker, CI/CD (GitHub Actions, Jenkins), Git, Linux
+
+**Cloud Platforms**
+AWS (EC2, S3, basic deployments)
+
+## Projects
+
+**Hand Sign Recognition System**
+Developed a machine learning-based system to recognize hand gestures for assisting communication.
+
+**Driver Drowsiness Detection System**
+Built a real-time monitoring system using computer vision to detect driver fatigue and trigger alerts.
+
+**EV Anti-Sleep Mechanism**
+Designed and implemented a safety mechanism in an electric vehicle prototype to reduce accident risks.
+
+**AI Chatbot (AWS + Hugging Face)**
+Created a chatbot using cloud services and LLM APIs, integrating retrieval-based responses.
+
+## DevOps Experience
+
+* Containerized applications using Docker
+* Implemented CI/CD pipelines for automated deployment
+* Deployed applications on AWS infrastructure
+
+## Career Objective
+
+To build a career as an AI Engineer or Machine Learning Engineer, focusing on developing scalable and production-ready intelligent systems.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/gourav-lande/
