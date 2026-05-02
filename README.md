@@ -1,51 +1,76 @@
-# Hi, I'm Gourav Lande
+# Hi there 👋, I'm Gourav Lande
 
-I am an M.Tech student with a strong interest in Artificial Intelligence, Cloud Computing, and DevOps. I focus on building practical systems that combine machine learning with real-world deployment.
+## 💻 About Me
 
-## Current Focus
+I am an M.Tech student in Software Engineering with a strong interest in Artificial Intelligence, Cloud Computing, and DevOps. I enjoy building practical systems that combine machine learning with real-world deployment and scalable infrastructure.
 
-* Learning and applying AI Engineering concepts (LLMs, RAG, system integration)
-* Strengthening my understanding of cloud-based architectures using AWS
-* Improving DevOps practices for scalable and reliable deployments
+📍 Location: Maharashtra, India
+🎓 Education: M.Tech in Software Engineering
+💡 Interests: AI/ML, Cloud, DevOps, System Design
+🌱 Currently Learning: LLMs, RAG, Advanced AWS workflows
 
-## Technical Skills
+---
 
-**Programming Languages**
+## 🔭 What I’m Working On
+
+* Building AI-based applications using LLMs and cloud services
+* Applying DevOps practices to automate deployment workflows
+* Improving system design and backend engineering skills
+
+---
+
+## 👯 Collaboration & Learning
+
+* Open to collaborating on AI/ML and backend projects
+* Interested in real-world problem-solving systems
+* Exploring open-source contributions
+
+---
+
+## 🔧 Skills
+
+### Programming
+
 Python, C++
 
-**Artificial Intelligence & Machine Learning**
-Machine Learning, Computer Vision (OpenCV), basic deep learning
+### AI & Machine Learning
 
-**DevOps & Tools**
+Machine Learning, Computer Vision (OpenCV), Basic Deep Learning
+
+### DevOps & Tools
+
 Docker, CI/CD (GitHub Actions, Jenkins), Git, Linux
 
-**Cloud Platforms**
-AWS (EC2, S3, basic deployments)
+### Cloud
 
-## Projects
+AWS (EC2, S3, deployment workflows)
 
-**Hand Sign Recognition System**
-Developed a machine learning-based system to recognize hand gestures for assisting communication.
+---
 
-**Driver Drowsiness Detection System**
-Built a real-time monitoring system using computer vision to detect driver fatigue and trigger alerts.
+## 🚀 Projects
 
-**EV Anti-Sleep Mechanism**
-Designed and implemented a safety mechanism in an electric vehicle prototype to reduce accident risks.
+🔹 **Hand Sign Recognition System**
+Machine learning-based system for recognizing hand gestures to assist communication
 
-**AI Chatbot (AWS + Hugging Face)**
-Created a chatbot using cloud services and LLM APIs, integrating retrieval-based responses.
+🔹 **Driver Drowsiness Detection System**
+Real-time computer vision system to detect driver fatigue and trigger alerts
 
-## DevOps Experience
+🔹 **EV Anti-Sleep Mechanism**
+Safety feature integrated into an electric vehicle prototype to reduce accident risk
 
-* Containerized applications using Docker
-* Implemented CI/CD pipelines for automated deployment
-* Deployed applications on AWS infrastructure
+🔹 **AI Chatbot (AWS + Hugging Face)**
+Cloud-based chatbot using LLM APIs with retrieval-based response system
 
-## Career Objective
+---
 
-To build a career as an AI Engineer or Machine Learning Engineer, focusing on developing scalable and production-ready intelligent systems.
-
-## Contact
+## 🌐 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/gourav-lande/
+
+---
+
+## 🎯 Career Goals
+
+* Build scalable AI systems for real-world applications
+* Gain expertise in AI Engineering and Cloud-based deployments
+* Work on production-level intelligent systems
