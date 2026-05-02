@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Gourav Lande
+# Hi there , I'm Gourav Lande
 
 ## 💻 About Me
 
