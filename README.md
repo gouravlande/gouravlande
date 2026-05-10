@@ -1,6 +1,6 @@
 # Hi there , I'm Gourav Lande
 
-## 💻 About Me
+##  About Me
 
 I am an M.Tech student in Software Engineering with a strong interest in Artificial Intelligence, Cloud Computing, and DevOps. I enjoy building practical systems that combine machine learning with real-world deployment and scalable infrastructure.
 
@@ -11,7 +11,7 @@ I am an M.Tech student in Software Engineering with a strong interest in Artific
 
 ---
 
-## 🔭 What I’m Working On
+##  What I’m Working On
 
 * Building AI-based applications using LLMs and cloud services
 * Applying DevOps practices to automate deployment workflows
@@ -19,7 +19,7 @@ I am an M.Tech student in Software Engineering with a strong interest in Artific
 
 ---
 
-## 👯 Collaboration & Learning
+##  Collaboration & Learning
 
 * Open to collaborating on AI/ML and backend projects
 * Interested in real-world problem-solving systems
@@ -27,7 +27,7 @@ I am an M.Tech student in Software Engineering with a strong interest in Artific
 
 ---
 
-## 🔧 Skills
+##  Skills
 
 ### Programming
 
@@ -47,7 +47,7 @@ AWS (EC2, S3, deployment workflows)
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 🔹 **Hand Sign Recognition System**
 Machine learning-based system for recognizing hand gestures to assist communication
@@ -69,7 +69,7 @@ LinkedIn: https://www.linkedin.com/in/gourav-lande/
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 * Build scalable AI systems for real-world applications
 * Gain expertise in AI Engineering and Cloud-based deployments
